@@ -22,7 +22,7 @@ For example we have the following students
 </tr>
 </table>
 
-<h2> proposes solution</h2>
+<h2> Proposed solution</h2>
 Use a hashmap to store the name, class pairs. Create a method <i>getAllKeysForValue</i> with generic object type to navigate through the hashmap searching for a specific value. If that value is found then its corresponding key is stored in a list object. In the main method, simply create the hashmap. populate it and print out the keys returned by the  <i>getAllKeysForValue</i>.
 
 In this example the output should be [Tom, Erica]
